@@ -3,4 +3,4 @@ Amadeus Global Hackathon is dedicated to sustainability.Dubbed #1AHACK4SUSTAINAB
 travel experience.This wasn’t just an opportunity to tackle sustainability in travel, it was a chance for students to meet industry leaders, 
 learn from new mentors, experiment with the latest in coding technology, and compete for prizes, including internships with Amadeus and other industry partners.
 
-![image description](HNN_architecture.jpg)
+![image description](Amad_hackathon_pic.png)
